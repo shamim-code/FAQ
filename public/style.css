@@ -1,0 +1,18 @@
+.container {
+    margin: 20px;
+    display: flex;
+    background-color: rgb(176, 183, 183);
+    padding: 10px;
+    justify-content: space-between;
+    border-radius: 3px;
+}
+
+.container div{
+    display: inline-block;
+}
+
+.container button {
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+}
